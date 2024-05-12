@@ -1,5 +1,5 @@
 {
-    "name": "cheng/easy-orm-database",
+    "name": "cheng-util/easy-orm-database",
     "autoload": {
         "psr-4": {
             "Cheng\\EasyOrmDatabase\\": "src/"
