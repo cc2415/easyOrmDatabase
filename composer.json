@@ -1,0 +1,17 @@
+{
+    "name": "cheng/easy-orm-database",
+    "autoload": {
+        "psr-4": {
+            "Cheng\\EasyOrmDatabase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chenzicheng",
+            "email": "137842934@qq.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "v8.83.10"
+    }
+}
